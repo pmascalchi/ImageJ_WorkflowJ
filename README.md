@@ -2,4 +2,4 @@
 
 WorkflowJ, a new plugin to create and save workflows in ImageJ / Fiji
 ---
-coming soon...
+coming soon... but please leave comments for ideas to be integrated in the plugin if you have some!
